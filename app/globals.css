@@ -2,7 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 
+---PALETTE---
+green: #4D4B30,
+greenish: #908660,
+skin: #FEEBCA,
+salmon: #F4CCA6,
+salmoner: #DAA38B,
+wine: #482216,
+*/
+
+
 body {
-  background: #FFB19A
+  background: #FEEBCA
 }
 
